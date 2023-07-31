@@ -1,0 +1,38 @@
+.main {
+    width: 400px;
+    height: 800px;
+    background-image: url("https://www.solidbackgrounds.com/images/4096x2304/4096x2304-bisque-solid-color-background.jpg");
+    position: relative;
+    left: 35%;
+    border: 5px rgb(7, 7, 68) double;
+}
+.one {
+    width: 190px;
+    height: 700px;
+    background-image: url("https://hitmedjobbet.dk/cvm/wp-content/uploads/2015/03/bg_red.jpg");
+    left: 2%;
+    position: absolute;
+    top: 1%;
+
+}
+.two {
+    width: 190px;
+    height: 700px;
+    background-image: url("https://th.bing.com/th/id/R.0d90b5ae49b632a1cf6cff085aa59af4?rik=K0qN22b781n9UA&riu=http%3a%2f%2fwww.gameartguppy.com%2fwp-content%2fuploads%2f2011%2f06%2f12_bg_green.png&ehk=yJbYyeaVE%2bxSPpM6A96zeVzi5H%2fIE8aIckVa6yBfFoo%3d&risl=&pid=ImgRaw&r=0");
+    position: absolute;
+    left: 50.8%;
+    top: 1%;
+}
+
+.three{
+    width: 385px;
+    height: 80px;
+    background-image: url("https://th.bing.com/th/id/OIP.f55PliZ9eR9XvsEQ4MK_3wHaEK?pid=ImgDet&rs=1");
+    top: 89%;
+    position: absolute;
+    left: 2%;
+}
+
+.one, .two, .three {
+    border: 1.5px black solid;
+}
